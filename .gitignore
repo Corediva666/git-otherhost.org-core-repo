@@ -5,7 +5,10 @@ $imei = „18:26:66:EB:68:B1“; // iOS MAC Address IMEI for Android/Android
 *.dex#
  Java class files php whatsapp.php -i 491636926314*.class
 
-# Generated files
+
+# Generated files $ git clone --bare https://githost.org/ core / repo.git 
+cd * repo.git * 
+git push --mirror https://github.com/ core / repo.git
 bin/
 gen/
 
