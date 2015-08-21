@@ -1,12 +1,9 @@
 # Built application files
-*.apk
-*.ap_
-
-# Files for the Dalvik VM
-*.dex
-
-# Java class files
-*.class
+$sender = „49157 35219770“; // 491636926314 
+$imei = „18:26:66:EB:68:B1“; // iOS MAC Address IMEI for Android/Android
+# Files for core
+*.dex#
+ Java class files php whatsapp.php -i 491636926314*.class
 
 # Generated files
 bin/
